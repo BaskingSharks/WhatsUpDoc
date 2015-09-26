@@ -22,6 +22,7 @@ font-weight: bold;
 text-align: center;
 padding-top: 4%;
 padding-right: 2%;
+padding-bottom: 2%;
 border-top: 5px solid;
 border-right: 5px solid;
 border-left: 5px solid;
@@ -29,14 +30,11 @@ border-bottom: 5px solid;
 margin-bottom: 2%;
 }
 
-h2 {
-font-size: 1.7;
-}
 
 
 .img-circle {
 border-radius: 50%;
-height: 375px;
+height: 300px;
 position: absolute;
 top: 50%;
 left: 50%;
@@ -49,6 +47,7 @@ left: 25%;
 text-align: right;
 padding: 50px;
 font-family: 'Quicksand', sans-serif;
+font-size: 30px;
 width: 25%;
 float: left;
 border-right-style: solid;
@@ -59,15 +58,11 @@ border-right-width: thin;
 top: 25%;
 padding: 50px;
 font-family: 'Quicksand', sans-serif;
+font-size: 30px;
 width: 25%;
 float: right;
 border-left-style: solid;
 border-left-width: thin;
-}
-
-xxxx {
-color:#008000;
-background:#ddd;
 }
 
 
@@ -85,9 +80,5 @@ h1, h2, h3, h4, h5, h6 {
 font-family: 'Quicksand', sans-serif;
 font-weight: bold;
 }
-
-
-
-
 
 

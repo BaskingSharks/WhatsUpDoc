@@ -1,15 +1,10 @@
 /*
   
-   Makeup CSS
+   Professor CSS
    Author: Sarah Ijaz
-   Date:   1/8/2014
-
-   Filename:         makeupstyle.css
-   Supporting Files: none
+   Date: 9/26/15
 
 */
-
-/* Section Styles */
 
 body {
 background-color: #F0F8FF;
@@ -41,7 +36,7 @@ font-size: 1.7;
 
 .img-circle {
 border-radius: 50%;
-height: 420px;
+height: 375px;
 position: absolute;
 top: 50%;
 left: 50%;

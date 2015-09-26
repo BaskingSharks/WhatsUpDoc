@@ -1,0 +1,135 @@
+/* CSS will go here */
+
+body {
+
+margin-left: 230px;
+background: #F0F8FF;
+font-family: "Quicksand", sans-serif;
+color: black;
+text-align: left;
+width: 800px;
+border: 5px solid;
+
+}
+
+/*containers! */
+.wrapper {
+		position:relative;
+		text-align: left;
+		background: wheat;
+		margin: 0;
+		float:center;
+		width:600px;
+		border-right: 5px solid;
+}
+
+.wrapper2 {
+		position:relative;
+		text-align: left;
+		background: wheat;
+		margin: 0;
+		float:center;
+		width:800px;
+		border-right: 5px solid;
+}
+
+.img-circle {
+	border-radius: 50%;
+	height: 220px;
+	width: 220px;
+	/*float: left;
+	vertical-align: left;
+	top: 100px;
+	left: 50px;*/
+	text-align: center;
+}
+
+div img {
+		text-align:center;
+	}
+
+#trafficGo {
+	width: 30px;
+	height: 30px;
+	background: green;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#trafficYield {
+	width: 30px;
+	height: 30px;
+	background: yellow;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#trafficStop {
+	width: 20px;
+	height: 20px;
+	background: red;
+	float: positioned;
+	left: 40%;
+	/*-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;*/
+	border-radius: 50px;
+}
+
+#header {
+		height: 100px;
+		font-size: 3em;
+		font-weight: medium;
+		text-align: center;
+		padding-top: 4%;
+		padding-right: 2%;
+		border-top: 0px solid;
+		border-right: 0px solid;
+		border-left: 0px solid;
+		border-bottom: 0px solid;
+	}
+
+	#subhead {
+		height: 50px;
+		font-size: 1.75em;
+		font-weight: medium;
+		text-align:left;
+		float:left;
+	}
+
+	/* Container and sidebar are for the navigation elements in the right column */
+.container {
+	position: absolute;
+	width: 200px;
+	height:100%;
+	margin-left: 600px;
+	border-left: 5px solid;
+	float:92% right;
+	text-align:left;
+	background-color: #BA3838;
+	color:black;
+}
+
+.sidebar
+	{	
+	position:right;
+	padding-right: 5px;
+	margin-right: 5px;
+	color: black;
+	text-align: left;
+}
+
+h4 {
+	position:absolute;
+	top: -25px;
+	left: 75px;
+}
+
+h2 {
+	position: absolute;
+	top: 15px;
+	right: 300px;
+	text-align: center;
+	font-weight: bold;
+}

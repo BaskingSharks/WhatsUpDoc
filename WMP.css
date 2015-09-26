@@ -11,8 +11,8 @@ width: 800px;
 border: 5px solid;
 
 }
-/*
-/*containers! 
+
+/*containers! */
 .wrapper {
 		position:relative;
 		text-align: left;
@@ -40,7 +40,7 @@ border: 5px solid;
 	/*float: left;
 	vertical-align: left;
 	top: 100px;
-	left: 50px;
+	left: 50px;*/
 	text-align: center;
 }
 
@@ -64,7 +64,7 @@ div img {
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
-}
+} 
 
 #trafficStop {
 	width: 20px;
@@ -73,7 +73,7 @@ div img {
 	float: positioned;
 	left: 40%;
 	/*-moz-border-radius: 50px;
-	-webkit-border-radius: 50px;
+	-webkit-border-radius: 50px;*/
 	border-radius: 50px;
 }
 
@@ -98,7 +98,7 @@ div img {
 		float:left;
 	}
 
-	/* Container and sidebar are for the navigation elements in the right column 
+	/* Container and sidebar are for the navigation elements in the right column */
 .container {
 	position: absolute;
 	width: 200px;
@@ -132,4 +132,4 @@ h2 {
 	right: 300px;
 	text-align: center;
 	font-weight: bold;
-} */
+}

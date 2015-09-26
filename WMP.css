@@ -12,11 +12,16 @@ border: 5px solid;
 
 }
 
+div, figure, figcaption, img {
+	border: 1px solid black;
+
+}
+
 /*containers! */
 .wrapper {
 		position:relative;
 		text-align: left;
-		background: wheat;
+		background-color: pink;
 		margin: 0;
 		float:center;
 		width:600px;
@@ -107,7 +112,7 @@ div img {
 	border-left: 5px solid;
 	float:92% right;
 	text-align:left;
-	background-color: #BA3838;
+	background-color: red;
 	color:black;
 }
 

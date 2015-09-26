@@ -39,8 +39,10 @@ width: 100%;
 }
 
 .container h2 {
+	display: inline-block;
 		text-align: center;
 		width: 100%;
+		margin: 0;
 	}
 
 

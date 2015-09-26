@@ -10,11 +10,6 @@ width: 100%;
 
 }
 
-div, figure, figcaption, img {
-	border: 1px solid black;
-
-}
-
 /*containers! */
 .wrapper {
 	display: block;
@@ -65,8 +60,8 @@ div, figure, figcaption, img {
 .img-circle {
 	display: inline-block;
 	border-radius: 50%;
-	height: 100%;
-	width: 100%;
+	height: 30%;
+	width: 30%;
 	/*float: left;
 	vertical-align: left;
 	top: 100px;

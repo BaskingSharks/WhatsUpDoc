@@ -14,13 +14,13 @@ width: 100%;
 .wrapper {
 	display: block;
 		position:relative;
-		text-align: left;
+		text-align: center;
 		margin: 0;
 		border-right: 5px solid;
 }
 
 #header {
-	display: block;
+		display: block;
 		height: 100px;
 		font-size: 3em;
 		font-weight: medium;
@@ -31,13 +31,15 @@ width: 100%;
 	}
 
 .container {
-	display: block;
-	text-align: left;
-	margin: 0;
-
+	display: inline-block;
+	margin: auto;
+	border: 1px solid blue;
 	
 }
-
+.container h4 {
+		text-align: left;
+		width: 100%;
+	}
 .container h2 {
 		text-align: center;
 		width: 100%;
@@ -53,7 +55,7 @@ width: 100%;
 
 .myStatus{
 	display: block;
-
+	text-align: left;
 	}
 
 .img-circle {
